@@ -4,8 +4,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-end Eğitimi kapsamında 
 
 ![github](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
----
-
 ## Installation
 
 öncelikle projeyi clonelayı
@@ -13,8 +11,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-end Eğitimi kapsamında 
 ```Bash
 https://github.com/ahmet-kok/kodluyoruzilkrepo.git
 ```
-
----
 
 ## Usage
 
@@ -30,8 +26,6 @@ code .
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
----
 
 ## Licence
 
